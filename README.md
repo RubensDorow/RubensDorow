@@ -2,7 +2,7 @@
 - 👀 I want to become a software engineer
 - 🌱 I’m currently learning analysis and systems development
 - 💞️ I’m looking to collaborate with everybody
-- 📫 [E-MAIL](rubens.dorow.junior@gmail.com)
+- 📫 E-MAIL: rubens.dorow.junior@gmail.com
 - 📄 [Linkedin](https://br.linkedin.com/in/rubens-dorow-junior)
 
 <!---
