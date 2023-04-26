@@ -1,6 +1,6 @@
 <h1 align="center">Olá/Hello</h1>
 <h3 align="left">I'm Rubens Dorow Junior, brazilian. Born in Blumenau/SC currently living in Curitiba/PR!</h3>
-<h3 align="left">I'm new in this area, but I'm studying to become a software engineer! Cause I'm in love for all of this.</h3>
+<h3 align="left">I'm new in this area, but I'm studying to become a developer! Cause I'm in love for all of this.</h3>
 
 <h3 align="center">Contact me:</h3>
 
